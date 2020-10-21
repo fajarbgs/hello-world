@@ -1,2 +1,2 @@
 # hello-world
-Just a 'Hello World' repository prooject
+Just a 'Hello World' repository project.
